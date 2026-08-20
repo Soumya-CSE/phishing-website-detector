@@ -64,6 +64,9 @@ phishing-detector/
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-26 110412" src="https://github.com/user-attachments/assets/54c0e354-1b08-47a7-b11a-7067080b3cae" />
 
+### 📊 Analysis Report
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-26 110638" src="https://github.com/user-attachments/assets/465b2a6e-fbe5-49ff-927d-138c75dc4108" />
 
 ---
 
