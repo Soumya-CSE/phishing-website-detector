@@ -58,6 +58,12 @@ phishing-detector/
 ├── README.md
 └── requirements.txt
 ```
+## 🖥️ Screenshots
+
+### 🏠 Home Interface
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-26 110412" src="https://github.com/user-attachments/assets/54c0e354-1b08-47a7-b11a-7067080b3cae" />
+
 
 ---
 
