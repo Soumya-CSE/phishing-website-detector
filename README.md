@@ -23,7 +23,6 @@ The project includes:
 * Punycode (IDN homograph) detection
 * Risk score with detailed explanations
 * Interactive web dashboard with animated results
-* Optional live webpage analysis (Python version)
 
 ---
 
