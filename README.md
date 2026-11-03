@@ -160,7 +160,5 @@ When the `--fetch` option is enabled, the program also checks:
 
 ---
 
-## 📄 License
 
-This project is developed for educational purposes and cybersecurity learning.
 
