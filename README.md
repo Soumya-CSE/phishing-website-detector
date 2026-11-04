@@ -160,5 +160,10 @@ When the `--fetch` option is enabled, the program also checks:
 
 ---
 
+# 👨‍💻 Author
+
+**Soumya Kanti Hazra**
+
+B.Tech Computer Science & Engineering
 
 
