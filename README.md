@@ -166,4 +166,18 @@ When the `--fetch` option is enabled, the program also checks:
 
 B.Tech Computer Science & Engineering
 
+Interested in:
+
+```text
+Cybersecurity
+SOC Analysis
+Blue Team
+Threat Hunting
+MITRE ATT&CK
+Detection Engineering
+Security Automation
+```
+
+---
+
 
